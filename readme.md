@@ -1,4 +1,4 @@
-*Simple image to ASCII converter*
+**Simple image to ASCII converter**
 
 Dependencies:
 - stb_image.h
